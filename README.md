@@ -31,3 +31,7 @@ cd todo-crud-api
      "title":"ranue23",
      "description":"may"
  }
+
+### Delete and update using the id 
+#get to do 
+###http://localhost:3000/api/v1/getTodo
