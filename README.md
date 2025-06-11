@@ -23,9 +23,11 @@ A simple and RESTful **Todo API** that allows you to perform Create, Read, Updat
 git clone https://github.com/yourusername/todo-crud-api.git
 cd todo-crud-api
 
+### Create the todo
+ 
+##http://localhost:3000/api/v1/createTodo
 
-http://localhost:3000/api/v1/createTodo
- {
+{
      "title":"ranue23",
      "description":"may"
  }
